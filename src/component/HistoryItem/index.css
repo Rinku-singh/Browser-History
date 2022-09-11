@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.new-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.time-part {
+  margin-right: 38px;
+}
+
+.logo {
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.image {
+  height: 40px;
+  width: 40px;
+}
+
+.social-platform-name {
+  margin-left: 20px;
+}
+
+.domain {
+  margin-left: 25px;
+}
+.titleUrl {
+  color: #64748b;
+}
+.delete-button {
+  background-color: #ffffff;
+  border: none;
+}
